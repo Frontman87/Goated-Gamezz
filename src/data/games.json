@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "iframeUrl": "https://play2048.co/"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced puzzle game inspired by Tetris.",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
+    "iframeUrl": "https://hextris.io/"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "description": "The classic bird flapping game.",
+    "thumbnail": "https://picsum.photos/seed/flappy/400/300",
+    "iframeUrl": "https://flappybird.io/"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "A fast-paced ball rolling game.",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "iframeUrl": "https://slopegame.io/"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "description": "The original idle game about clicking cookies.",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/300",
+    "iframeUrl": "https://orteil.dashnet.org/cookieclicker/"
+  },
+  {
+    "id": "little-alchemy",
+    "title": "Little Alchemy",
+    "description": "Combine elements to create new ones.",
+    "thumbnail": "https://picsum.photos/seed/alchemy/400/300",
+    "iframeUrl": "https://littlealchemy.com/"
+  }
+]
